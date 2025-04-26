@@ -10,5 +10,5 @@
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl": "https://olmeraot.com/files/olmeraot-client.zip",
-	"clientExecutable": "bin/client.exe"
+	"clientExecutable": "client.exe"
 }
