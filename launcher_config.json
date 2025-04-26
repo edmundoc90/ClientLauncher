@@ -9,6 +9,6 @@
 		{ "name": "sounds" }
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl": "https://github.com/edmundoc90/ClientLauncher/releases/download/v1.0.0/olmeraot-client.zip",
+	"newClientUrl": "https://olmeraot.com/files/olmeraot-client.zip",
 	"clientExecutable": "bin/client.exe"
 }
