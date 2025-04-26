@@ -1,0 +1,14 @@
+{
+	"clientVersion": "13.22.13900",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{ "name": "assets" },
+		{ "name": "bin" },
+		{ "name": "conf" },
+		{ "name": "sounds" }
+	],
+	"clientFolder": "Tibia",
+	"newClientUrl": "https://github.com/edmundoc90/ClientLauncher/releases/download/v1.0.0/olmeraot-client.zip",
+	"clientExecutable": "bin/client.exe"
+}
